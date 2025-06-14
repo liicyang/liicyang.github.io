@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![liicyang](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/liicyang)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a graduate student majoring in [Key Laboratory of Brain Health Intelligent Evaluation and Intervention](https://bhe-lab.org/). My Supervisor is [Prof. Kun Qian](https://eecsqian.com) (Senior Member, IEEE). 
 
 #### Email
-sli[at]cumt.edu.cn
+licyang@bit.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Technology, Beijing Institute of Technology (Zhuhai), 2024—2027 (expected).\
+B.E., Internet of Things Engineering, Central South University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+EEG Emotion Recognition, EEG Augmentation.
 
